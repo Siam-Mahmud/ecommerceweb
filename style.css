@@ -70,6 +70,7 @@ button.white{
 body {
   width: 100%;
 }
+
 #header{
   display: flex;
   align-items: center;
@@ -82,6 +83,7 @@ body {
   top: 0;
   left: 0;
 }
+
 #navbar{
   display: flex;
   align-items: center;
@@ -123,8 +125,8 @@ body {
   padding: 0 80px;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
+  align-items: flex-end;
+  justify-content:center;
 }
 #hero h4{
   padding-bottom: 15px;
